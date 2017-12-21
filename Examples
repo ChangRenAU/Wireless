@@ -1,1 +1,13 @@
 
+Node 1 tux207, 10120 110 130 links 4 6 7 11 
+Node 2 tux207, 10121 120 60 links 8 9 
+Node 3 tux207, 10122 90 280 links 4 10 
+Node 4 tux207, 10123 100 185 links 1 3 6 7 10 
+Node 5 tux207, 10124 50 120 links 6 10
+Node 6 tux207, 10125 80 120 links 4 5 10
+Node 7 tux208, 10126 180 170 links 1 4 11
+Node 8 tux208, 10127 135 80 links 2 9 11 12
+Node 9 tux208, 10128 150 60 links 2 8 12
+Node 10 tux208, 10129 60 160 links 3 4 5 6
+Node 11 tux208, 10120 150 100 links 1 7 8 12 
+Node 12 tux208, 10121 200 50 links  8 9 11
